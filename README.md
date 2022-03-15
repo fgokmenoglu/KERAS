@@ -1,2 +1,2 @@
 # KERAS
-This repository includes works for some practice about TensorFlow and Keras.
+This repository includes works about TensorFlow and Keras.
